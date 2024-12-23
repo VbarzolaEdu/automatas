@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 export-2019-to-now-v4.csv
 *.csv
+bin/
 
 # C extensions
 *.so
